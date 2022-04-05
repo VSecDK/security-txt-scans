@@ -1,0 +1,236 @@
+# List without hosts, vendors, software, bigcorp, Danske Spil (682 domains) and Jyske Bank (75 domains)
+#
+# grep -vE "automattic|jyskebank|36720011|readymag|google.com|facebook.com|proctergamble|grepmasters|thg.com|canon-europe|chainbox|campaginmonitor|solidpixels|nikkasystems|bloomandwild|charanga|nextcloud|etraveligroup|mybestbook|yahoo"
+#
+# struct contains domain, contacts, expire
+{"aalborg-data.dk" ["mailto:thorvald@netbridge.dk" "https://www.linkedin.com/in/thorvald/"] ""}
+{"aalborgdata.dk" ["mailto:thorvald@netbridge.dk" "https://www.linkedin.com/in/thorvald/"] ""}
+{"adii.dk" ["admin@mindless.dk"] "2025-10t08:10:00.00z"}
+{"aeroe-energi.dk" ["security@norlys.dk"] ""}
+{"aipi.dk" ["mailto:info@aipi.de" "tel:+49-4401-983910"] ""}
+{"aleris-hamlet-plastikkirurgi.dk" ["mailto:security@getadigital.com" "mailto:devops@geta.no"] ""}
+{"aleris-hamlet.dk" ["mailto:security@getadigital.com" "mailto:devops@geta.no"] ""}
+{"alexandra.dk" ["mailto:security-vulnerabilities@alexandra.dk"] "2022-12-31t22:00:00.000z"}
+{"amfelt.dk" ["webmaster@amfelt.dk"] ""}
+{"av-cables.dk" ["mailto:security@av-cables.dk"] "sat, 1 jan 2023 00:00 +0200"}
+{"beiersdorf.dk" ["https://soc.beiersdorf.com" "mailto:security@beiersdorf.com"] "sat, 28 feb 2026 15:00 +0200"}
+{"bendingspoons.dk" ["mailto:security@bendingspoons.com"] ""}
+{"benns.dk" ["privacy@kilroy.net"] ""}
+{"bestsecret.dk" ["mailto:vulnerabilities@bestsecret.com"] "2022-10-01t10:00:00.000z"}
+{"bmw-motorrad.dk" ["https://www.bmwgroup.com/en/general/security.html" "https://www.bmwgroup.com/de/general/security.html" "https://hackerone.com/bmwgroup/" "mailto:cert@bmw.de"] ""}
+{"bmw.dk" ["https://www.bmwgroup.com/en/general/security.html" "https://www.bmwgroup.com/de/general/security.html" "https://hackerone.com/bmwgroup/" "mailto:cert@bmw.de"] ""}
+{"booq.dk" ["mailto:naa@oscorp.dk"] "2022-12-31t23:00:00.000z"}
+{"bring.dk" ["mailto:it.sikkerhet@posten.no"] ""}
+{"bryggebladet.dk" ["teknik@bryggebladet.dk" "https://www.bryggebladet.dk/kontakt/"] ""}
+{"bukas.dk" ["mailto:nilas.jensen.nj.1@gmail.com"] "2025-04-02t18:41:00.000z"}
+{"cvli.dk" ["mailto:security@ccli.com"] ""}
+{"cxmanager.dk" ["mailto:disclosure@cxplanner.com"] ""}
+{"cxplanner.dk" ["mailto:disclosure@cxplanner.com"] ""}
+{"dansksprinklerteknik.dk" ["mailto:csirt@vinci-energies.com"] ""}
+{"dba.dk" ["https://app.zerocopter.com/en/rd/f71e86cf-9034-41ac-bc75-6eda26114ead"] ""}
+{"defencia.dk" ["mailto:info@skrivebeskyttet.dk"] "2025-12-19t11:00:00.000z"}
+{"demus.dk" ["mailto:root@demus.dk"] "2030-01-01t00:00:00.000z"}
+{"dmarc.dk" ["mailto:henrik@dmarc.dk"] ""}
+{"dmarcian.dk" ["mailto:system-ops@dmarcian.com"] ""}
+{"dnb.dk" ["mailto:irt@dnb.no"] "2031-12-31t23:00:00.000z"}
+{"dnv.dk" ["mailto:dnv.corporate.security@dnv.com"] "2022-06-01t09:00:00.000z"}
+{"downdetector.dk" ["security@downdetector.com" "security@ookla.com"] ""}
+{"dsb.dk" ["mailto:security@dsb.dk" "mailto:itsikkerhed@dsb.dk"] "2025-01-01t11:00:00.000z"}
+{"dsinext.dk" ["security@itrelation.dk"] ""}
+{"ego1948.dk" ["mailto:security@getadigital.com" "mailto:devops@geta.no"] ""}
+{"ekomi.dk" ["mailto:hostmaster@ekomi.de"] "2025-12-31t22:59:00.000z"}
+{"ekspedia.dk" ["respdisc@expedia.com"] ""}
+{"elram.dk" ["mailto:security@getadigital.com" "mailto:devops@geta.no"] ""}
+{"emilstahl.dk" ["mailto:security@emilstahl.dk" "mailto:emilstahl@protonmail.com" "https://twitter.com/emilstahl"] ""}
+{"emsisoft.dk" ["mailto:security@emsisoft.com"] ""}
+{"energicert.dk" ["+45 88 32 71 40" "info@energicert.dk"] ""}
+{"eniig.dk" ["security@norlys.dk" "[tel:+4588327116]"] ""}
+{"epamsystems.dk" ["use the form at the https://www.epam.com/.well-known/securitypolicy.html"] ""}
+{"erda.dk" ["mailto:security@erda.dk"] "2031-12-31t22:59:00.000z"}
+{"eskytravel.dk" ["mailto:security@esky.com"] ""}
+{"estahl.dk" ["mailto:security@emilstahl.dk" "mailto:emilstahl@protonmail.com" "https://twitter.com/emilstahl"] ""}
+{"eurowagon.dk" ["admin@xart.cz" "+420 566 466 411"] ""}
+{"exitium.dk" ["mailto:query@exitium.dk"] "2022-04-30t22:01:00.000z"}
+{"expedia.dk" ["respdisc@expedia.com"] ""}
+{"expeida.dk" ["respdisc@expedia.com"] ""}
+{"exponea.dk" ["secops at exponea.com"] ""}
+{"filmbooster.dk" ["security@csfd.cz"] ""}
+{"fixi.dk" ["mailto:mail@magnusdemant.ch"] ""}
+{"forsea.dk" ["itsecurity@forseaferries.com"] "wed, 1 jan 2025 00:00 +0200"}
+{"forseaferries.dk" ["itsecurity@forseaferries.com"] "wed, 1 jan 2025 00:00 +0200"}
+{"frontdata.dk" ["security@itrelation.dk"] ""}
+{"gear4music.dk" ["security@g4m.co.uk"] ""}
+{"gettyimages.dk" ["mailto:security@gettyimages.com"] "2022-10-01t07:00:00.000z"}
+{"getyourguide.dk" ["https://www.getyourguide.com/security"] "tue, 19 jan 2038 03:14:07 +0000"}
+{"gimbl.dk" ["https://gimbl.gg/contact"] ""}
+{"gooby.dk" ["mailto:gooby@gooby.dk"] "2034-12-31t22:59:00.000z"}
+{"goupil-ev.dk" ["mailto:tech@group-dis.com"] "2022-12-31t23:00:00.000z"}
+{"hansaplast.dk" ["https://soc.beiersdorf.com" "mailto:security@beiersdorf.com"] "sat, 28 feb 2026 15:00 +0200"}
+{"happyautocamper.dk" ["developers@billiger-mietwagen.de" "hostmaster@billiger-mietwagen.de"] ""}
+{"happybiludlejning.dk" ["developers@billiger-mietwagen.de" "hostmaster@billiger-mietwagen.de"] ""}
+{"happylejeafbil.dk" ["developers@billiger-mietwagen.de" "hostmaster@billiger-mietwagen.de"] ""}
+{"happylejebil.dk" ["developers@billiger-mietwagen.de" "hostmaster@billiger-mietwagen.de"] ""}
+{"happylejebiler.dk" ["developers@billiger-mietwagen.de" "hostmaster@billiger-mietwagen.de"] ""}
+{"hpoe.dk" ["mailto:james@firefly-iii.org"] ""}
+{"hr-skyen.dk" ["mailto:developer@hr-on.com"] ""}
+{"huhubamboo.dk" ["mailto:security@shoptet.cz"] ""}
+{"ifconfig.dk" ["mailto:mads@ifconfig.dk"] ""}
+{"imeconcontainers.dk" ["petr@bydzovsky.cz"] ""}
+{"improsec.dk" ["security@improsec.com"] ""}
+{"incident.dk" ["mailto:security@emilstahl.dk" "mailto:emilstahl@protonmail.com" "https://twitter.com/emilstahl"] ""}
+{"ionos-cloud.dk" ["mailto: security@ionos.com"] "2024-02-11t23:30:00.000z"}
+{"ionoscloud.dk" ["mailto: security@ionos.com"] "2024-02-11t23:30:00.000z"}
+{"ipv6-adresse.dk" ["mailto:security@emilstahl.dk" "mailto:emilstahl@protonmail.com" "https://twitter.com/emilstahl"] ""}
+{"itadel.dk" ["security@itrelation.dk"] ""}
+{"itafdelingen.dk" ["security@itrelation.dk"] ""}
+{"itm8.dk" ["security@itrelation.dk"] ""}
+{"itrelation.dk" ["security@itrelation.dk"] ""}
+{"joyourself.dk" ["mailto:itsecuritypublic@doclerholding.com"] ""}
+{"kenc.dk" ["mailto:kenc@kenc.dk" "https://twitter.com/kenmandk"] ""}
+{"kenchristensen.dk" ["mailto:kenc@kenc.dk" "https://twitter.com/kenmandk"] ""}
+{"kenman.dk" ["mailto:kenc@kenc.dk" "https://twitter.com/kenmandk"] ""}
+{"kentico.dk" ["mailto:security@kentico.com"] ""}
+{"kilroy.dk" ["privacy@kilroy.net"] ""}
+{"kilroytravels.dk" ["privacy@kilroy.net"] ""}
+{"klausen.dk" ["mailto:security@klausen.dk"] ""}
+{"knuddels.dk" ["securityreports@knuddels.de"] ""}
+{"ksplanner.dk" ["mailto:disclosure@cxplanner.com"] ""}
+{"kvasir.dk" ["mailto:grue@kvasir.dk"] "2038-01-19t03:14:00.000z"}
+{"lablo.dk" ["mailto:info@skrivebeskyttet.dk"] "2025-12-19t11:00:00.000z"}
+{"linde-healthcare.dk" ["mailto:cybersecurity.contact@linde.com"] "sun, 30 apr 2028 00:00 -0700"}
+{"linkedin.dk" ["mailto:security@linkedin.com" "https://www.linkedin.com/help/linkedin/answer/62924"] ""}
+{"lofttrapper-shop.dk" ["mailto:podpora@jzshop.cz" "tel:+420-739-733-992"] ""}
+{"logitech.dk" ["https://www.logitech.com/security"] "2099-12-31t20:59:00.000z"}
+{"losvikflen.dk" ["mailto:hostmaster@managed.fi"] ""}
+{"lucky2go.dk" ["mailto:security@esky.com"] ""}
+{"lunarway.dk" ["security@lunar.app"] "sat, 31 dec 2022 23:59:59 +0100"}
+{"lvj.dk" ["https://hypercascade.com/#sec-contact"] ""}
+{"lyndyk.dk" ["security@bystrup.net"] ""}
+{"lyttildinkrop.dk" ["admin@mindless.dk"] "2025-10t08:10:00.00z"}
+{"mahogany.dk" ["mailto:admin@simplia.cz" "https://www.simplia.cz"] ""}
+{"mailrisk.dk" ["security@securepractice.co"] ""}
+{"manitu.dk" ["mailto:support@manitu.de"] ""}
+{"marga.dk" ["mailto:naa@oscorp.dk"] "2022-12-31t23:00:00.000z"}
+{"martinploug.dk" ["mailto:ae7w6x7wg@relay.firefox.com"] "2099-12-31t23:00:00.000z"}
+{"meatlover.dk" ["kim@meatlover.dk"] ""}
+{"mindless.dk" ["admin@mindless.dk"] "2025-10t08:10:00.00z"}
+{"miracle42.dk" ["security@itrelation.dk"] ""}
+{"misupportit.dk" ["jc@misupport.dk"] ""}
+{"moobil.dk" ["mailto:gooby@gooby.dk"] "2034-12-31t22:59:00.000z"}
+{"morell-reng.dk" ["security@monicahq.com"] ""}
+{"mrjet.dk" ["respdisc@expedia.com"] ""}
+{"n1.dk" ["security@n1.dk"] ""}
+{"naildesign-magazine.dk" ["mailto:tech@webador.com"] "2100-12-31t23:59:59.999z"}
+{"napoleon-games.dk" ["mailto:techops@napoleongames.be" "mailto:info.security@gamesgroup.be"] ""}
+{"napoleongames.dk" ["mailto:techops@napoleongames.be" "mailto:info.security@gamesgroup.be"] ""}
+{"nauda.dk" ["mailto:naa@oscorp.dk"] "2022-12-31t23:00:00.000z"}
+{"navig8.dk" ["mailto:info@skrivebeskyttet.dk"] "2025-12-19t11:00:00.000z"}
+{"netbridge.dk" ["mailto:thorvald@netbridge.dk" "https://www.linkedin.com/in/thorvald/"] ""}
+{"networkforensic.dk" ["mailto:security@networkforensic.dk"] "2023-01-01t11:00:00.000z"}
+{"newejo.dk" ["https://www.sbfpf.dk/contact"] ""}
+{"nextdoor.dk" ["mailto:security@nextdoor.com" "https://hackerone.com/nextdoor"] ""}
+{"nivea.dk" ["https://soc.beiersdorf.com" "mailto:security@beiersdorf.com"] "sat, 28 feb 2026 15:00 +0200"}
+{"nixu.dk" ["vulnerabilities@nixu.com"] ""}
+{"nmu.dk" ["mailto:admin@nmugroup.com"] "2031-10-01t10:23:37+00:00"}
+{"nmugroup.dk" ["mailto:admin@nmugroup.com"] "2031-10-01t10:23:37+00:00"}
+{"nordnet.dk" ["security@nordnet.se"] "2023-12-31t23:59:59.000z"}
+{"norlys.dk" ["security@norlys.dk"] ""}
+{"notino.dk" ["https://www.notino.com/contact/"] "2022-12-29t23:00:00.000z"}
+{"novicell.dk" ["data-protection@novicell.dk"] ""}
+{"nyfors.dk" ["security@norlys.dk"] ""}
+{"optimalprint.dk" ["responsible.disclosure@gelato.com" "privacy@gelato.com"] ""}
+{"oscorp.dk" ["mailto:naa@oscorp.dk"] "2022-12-31t23:00:00.000z"}
+{"osloskinlab.dk" ["mailto:security@getadigital.com" "mailto:devops@geta.no"] ""}
+{"papirfly.dk" ["insecurity@papirfly.net"] "16 dec 2022 00:00:00 +0000"}
+{"parship.dk" ["security@parshipgroup.com"] ""}
+{"pauliogblomgaard.dk" ["mailto:info@skrivebeskyttet.dk"] "2025-12-19t11:00:00.000z"}
+{"peterhahn.dk" ["mailto:francisc.rusznyak@peterhahn.de"] ""}
+{"pilotech.dk" ["mailto:security@inligo.no"] ""}
+{"projektplanner.dk" ["mailto:disclosure@cxplanner.com"] ""}
+{"promotique.dk" ["bugbounty@cimpress.com"] ""}
+{"prueba.dk" ["mailto:security@prueba.dk"] ""}
+{"qb64.dk" ["mailto:naa@oscorp.dk"] "2022-12-31t23:00:00.000z"}
+{"qbasic.dk" ["mailto:naa@oscorp.dk"] "2022-12-31t23:00:00.000z"}
+{"qualys.dk" ["mailto:security@qualys.com" "https://www.qualys.com/company/contacts/"] ""}
+{"reng.dk" ["security@monicahq.com"] ""}
+{"rentacarforless.dk" ["developers@billiger-mietwagen.de" "hostmaster@billiger-mietwagen.de"] ""}
+{"retrade.dk" ["mailto:security@vendo.no"] ""}
+{"retrotech.dk" ["mailto:naa@oscorp.dk"] "2022-12-31t23:00:00.000z"}
+{"rossmann.dk" ["mailto:security@rossmann.de"] "2022-12-31t22:59:00.000z"}
+{"safebit.dk" ["mailto:info@skrivebeskyttet.dk"] "2025-12-19t11:00:00.000z"}
+{"sbfpf.dk" ["https://www.sbfpf.dk/contact"] ""}
+{"scentia.dk" ["mailto:thorvald@netbridge.dk" "https://www.linkedin.com/in/thorvald/"] ""}
+{"se-bigblue.dk" ["security@norlys.dk"] ""}
+{"se-telecom.dk" ["security@norlys.dk"] ""}
+{"se.dk" ["security@norlys.dk"] ""}
+{"sebigblue.dk" ["security@norlys.dk"] ""}
+{"sec1.dk" ["mailto:nn@sec1.dk"] "2030-12-30t23:00:00.000z"}
+{"seistrup.dk" ["mailto:klaus@seistrup.dk"] "sat, 31 dec 2022 23:59:59 utc"}
+{"senet.dk" ["security@norlys.dk"] ""}
+{"seshoppen.dk" ["security@norlys.dk"] ""}
+{"sessionslogning.dk" ["mailto:security@emilstahl.dk" "mailto:emilstahl@protonmail.com" "https://twitter.com/emilstahl"] ""}
+{"setelecom.dk" ["security@norlys.dk"] ""}
+{"setouren.dk" ["security@norlys.dk"] ""}
+{"shareville.dk" ["security@nordnet.se"] "2022-12-31t23:59:01.000z"}
+{"simacan.dk" ["mailto:security@simacan.com"] "2022-12-01t12:00:00.000z"}
+{"simongredal.dk" ["email: simon (dot) gredal (at) icloud (dot) com" "twitter: https://twitter.com/simongr3dal" "signal: twenty-two ninety-five forty-eight twenty-four"] ""}
+{"skalkam.dk" ["mailto:thorvald@netbridge.dk" "https://www.linkedin.com/in/thorvald/"] ""}
+{"skibsliste.dk" ["mailto:gooby@gooby.dk"] "2034-12-31t22:59:00.000z"}
+{"skovbankegaard.dk" ["mailto:naa@oscorp.dk"] "2022-12-31t23:00:00.000z"}
+{"skrivebeskyttet.dk" ["mailto:info@skrivebeskyttet.dk"] "2025-12-19t11:00:00.000z"}
+{"smalltalk.dk" ["mailto:security@smll.dk"] "2025-12-31t11:59:00.000z"}
+{"smll.dk" ["mailto:security@smll.dk"] "2025-12-31t11:59:00.000z"}
+{"snippen.dk" ["mailto:thorvald@netbridge.dk" "https://www.linkedin.com/in/thorvald/"] ""}
+{"sophos.dk" ["security-alert@sophos.com" "https://www.sophos.com/security" "https://bugcrowd.com/sophos"] ""}
+{"sovendus.dk" ["mailto:report.issue@sovendus.com"] "mon, 1 may 2023 12:00 +0100"}
+{"spreadgroup.dk" ["mailto:security@spreadgroup.com"] "2022-05-01t00:00:00.000z"}
+{"spreadshirt.dk" ["mailto:security@spreadgroup.com"] "2022-05-01t00:00:00.000z"}
+{"srv1.dk" ["mailto:security@emilstahl.dk" "mailto:emilstahl@protonmail.com" "https://twitter.com/emilstahl"] ""}
+{"stahlp.dk" ["mailto:security@emilstahl.dk" "mailto:emilstahl@protonmail.com" "https://twitter.com/emilstahl"] ""}
+{"stofa-erhverv.dk" ["security@norlys.dk"] ""}
+{"stofa.dk" ["security@norlys.dk" "[tel:+4588327116]"] ""}
+{"supersaas.dk" ["mailto:security@supersaas.com"] "fri, 31 dec 2022 00:00:00 +0000"}
+{"swarovski.dk" ["mailto:security.txt@swarovski.com"] ""}
+{"swisspost.dk" ["security@post.ch"] ""}
+{"sydenergi.dk" ["security@norlys.dk"] ""}
+{"systran.dk" ["mailto:security@systrangroup.com"] "2023-01-30t23:00:00.000z"}
+{"teamshirts.dk" ["mailto:security@spreadgroup.com"] "2022-05-01t00:00:00.000z"}
+{"techbiz.dk" ["security@itrelation.dk"] ""}
+{"texthelp.dk" ["security@texthelp.com"] ""}
+{"the-west.dk" ["mailto:security@innogames.com"] ""}
+{"theleague.dk" ["security@theleague.dk"] "2022-12-30t23:00:00.000z"}
+{"thewest.dk" ["mailto:security@innogames.com"] ""}
+{"tjm-forsikring.dk" ["https://tryg.com/en/responsible-disclosure" "mailto:irt@tryg.com"] "wed, 30 nov 2022 12:00:00 +0200"}
+{"toogoodtogo.dk" ["mailto:security@toogoodtogo.com"] ""}
+{"trovit.dk" ["bugbounty@lifullconnect.com"] ""}
+{"trox.dk" ["mailto:support-eb@troxgroup.com"] "2022-12-01t11:00:00.000z"}
+{"tryg.dk" ["https://tryg.com/en/responsible-disclosure" "mailto:irt@tryg.com"] "wed, 30 nov 2022 12:00:00 +0200"}
+{"tryggaranti.dk" ["https://tryg.com/en/responsible-disclosure" "mailto:irt@tryg.com"] "wed, 30 nov 2022 12:00:00 +0200"}
+{"trygpension.dk" ["https://tryg.com/en/responsible-disclosure" "mailto:irt@tryg.com"] "wed, 30 nov 2022 12:00:00 +0200"}
+{"tv2login.dk" ["mailto:security@tv2.dk"] ""}
+{"twinkl.dk" ["@arbgae42g"] ""}
+{"uipath.dk" ["security@uipath.com"] "2023-11-01t05:59:00.000z"}
+{"uniejo.dk" ["https://www.uniejo.dk/contact"] ""}
+{"unisys.dk" ["abuse@unisys.com" "security@unisys.com" "securityvulnerabilityresponseteam@unisys.com"] ""}
+{"v1.dk" ["mailto:security@emilstahl.dk" "mailto:emilstahl@protonmail.com" "https://twitter.com/emilstahl"] ""}
+{"verivox.dk" ["mailto:alexander.buchner@verivox.com"] ""}
+{"vinci-dk.dk" ["mailto:cert@vinci.com"] ""}
+{"vinci-energies.dk" ["mailto:csirt@vinci-energies.com"] ""}
+{"virail.dk" ["https://www.virail.com"] ""}
+{"vistaprint.dk" ["bugbounty@cimpress.com"] ""}
+{"vitaelab.dk" ["mailto:security@getadigital.com" "mailto:devops@geta.no"] ""}
+{"vitaepro.dk" ["mailto:security@getadigital.com" "mailto:devops@geta.no"] ""}
+{"vognladet.dk" ["info@braende24syv.dk"] ""}
+{"vos-el.dk" ["security@norlys.dk"] ""}
+{"vosel.dk" ["security@norlys.dk"] ""}
+{"vsec.dk" ["mailto:vsec-community@protonmail.com"] "2022-12-31t23:01:00.000z"}
+{"vuch.dk" ["mailto:admin@simplia.cz" "https://www.simplia.cz"] ""}
+{"webgains.dk" ["mailto:sysadmin@webgians.com"] ""}
+{"wir.dk" ["mailto:naa@oscorp.dk"] "2022-12-31t23:00:00.000z"}
+{"wjg.dk" ["https://wgauthier.net/contact/"] ""}
+{"xenit.dk" ["mailto:security@xenit.se"] ""}
+{"xn--zca.dk" ["mailto:security@emilstahl.dk" "mailto:emilstahl@protonmail.com" "https://twitter.com/emilstahl"] ""}
+{"xpedia.dk" ["respdisc@expedia.com"] ""}
+{"yara.dk" ["https://vdp.yara.com"] ""}
+{"yoopies.dk" ["mailto:security-report@worklife.io"] ""}
+{"yorulmaz.dk" ["bugs@omg.lol"] ""}
